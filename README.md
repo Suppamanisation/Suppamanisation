@@ -1,5 +1,5 @@
 - Hi, I’m Nikita Marinets
-- I’m currently working as DevOps Engineer at ITechArt Group
+- I’m currently working as DevOps Engineer
 - How to reach me:
 - Nikita.Marinets@itechart-group.com
 - marinets96@gmail.com
